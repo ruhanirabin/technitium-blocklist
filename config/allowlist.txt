@@ -12,3 +12,5 @@
 
 start.me
 animedex.fun
+vidnest.fun
+anime.dex.fun
