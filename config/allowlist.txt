@@ -14,3 +14,5 @@ start.me
 animedex.fun
 vidnest.fun
 anime.dex.fun
+api.ani.zip
+upcloud.animanga.fun
