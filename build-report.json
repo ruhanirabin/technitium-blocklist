@@ -1,0 +1,33 @@
+{
+ "generated_at": "2026-11-28T11:54:17Z",
+ "content_sha256": "50b1cdfbaa72e04171989509d2af635f0b8e84ce4a219acf621242143b44b444",
+ "totals": {
+  "sources_configured": 37,
+  "sources_used": 1,
+  "domains_parsed": 254739,
+  "unique": 254739,
+  "exact_duplicates": 0,
+  "allowlist_removed": 0,
+  "safety_dropped": 0,
+  "compact": 254739,
+  "compact_saved": 0,
+  "adblock": 254739
+ },
+ "sources": [
+  {
+   "name": "hagezi-pro-plus",
+   "url": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/pro.plus-onlydomains.txt",
+   "category": "ads",
+   "bytes": 5013871,
+   "domains_parsed": 254739,
+   "new_unique": 254739,
+   "duplicates": 0,
+   "safety_dropped": 0,
+   "exceptions": 0,
+   "invalid": {},
+   "skipped": {},
+   "seconds": 2.9
+  }
+ ],
+ "dropped_dangerous": []
+}
